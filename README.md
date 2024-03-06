@@ -2,7 +2,10 @@
 
   ## Description
 
-  A To Do List application built with C# & WPF framework
+  A To Do List application built with C# & WPF framework.
+
+  ### App Screenshot
+  ![To Do List App Screenshot](ToDoListApp.png)
   
   ## Table of Contents
   
