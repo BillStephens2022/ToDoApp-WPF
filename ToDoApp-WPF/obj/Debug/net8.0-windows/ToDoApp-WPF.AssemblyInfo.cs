@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToDoApp-WPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1181ba6acd9c6a1f762bcf2a885a689706df39e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6111b9de8f5dcf3726e0987ea05bcaa1bac4fc2f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToDoApp-WPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToDoApp-WPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
